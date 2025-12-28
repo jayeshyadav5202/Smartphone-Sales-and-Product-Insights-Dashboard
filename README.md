@@ -33,3 +33,8 @@ I cleaned the data, created DAX measures, and built visuals for model performanc
 
 6. Business Impact:
 These insights help the business optimize inventory, refine pricing strategy, target the right models for marketing, and make data-driven product decisions. Overall, the dashboard becomes a single view for faster decision-making.
+
+SCREENSHOTS:
+
+1. Report 1
+   
