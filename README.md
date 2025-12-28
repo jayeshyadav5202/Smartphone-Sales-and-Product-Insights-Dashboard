@@ -38,3 +38,4 @@ SCREENSHOTS:
 
 1. Report 1
    
+![Dashboard Preview](https://github.com/jayeshyadav5202/Smartphone-Sales-and-Product-Insights-Dashboard/blob/main/Report%201.png)
